@@ -3,6 +3,7 @@ import pandas as pd
 from typing import List, Dict, Any
 
 API_KEY = "your_api_key"
+# 89euKScWRbmhas30Kq3wy6u9dPxtU8Ax
 API_URL = "https://api.apilayer.com/exchangerates_data/convert?to={}&from=USD&amount=1"
 
 CURRENCIES = [
